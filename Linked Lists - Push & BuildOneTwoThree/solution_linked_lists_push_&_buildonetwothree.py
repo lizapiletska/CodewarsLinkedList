@@ -13,4 +13,3 @@ def build_one_two_three():
     chained = push(chained, 1)
 
     return chained
-
